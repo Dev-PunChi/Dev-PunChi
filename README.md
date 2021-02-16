@@ -3,10 +3,8 @@
 [![](https://img.shields.io/badge/%F0%9F%8F%A0-Home-blue)](https://dev-punchi.github.io)
 [![](https://img.shields.io/badge/%F0%9F%93%99-Blog-green)](https://dev-punchi.github.io)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-PunChi&layout=compact&langs_count=6&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dev-PunChi&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-PunChi&layout=compact&langs_count=6&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
